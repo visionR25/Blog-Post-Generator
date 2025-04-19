@@ -1,0 +1,14 @@
+streamlit
+langchain
+langchain_community
+openai
+tiktoken
+python-dotenv
+altair<5.0
+pypdf 
+newspaper3k 
+serpapi
+mysql-connector-python 
+passlib
+firebase-admin
+urllib3
